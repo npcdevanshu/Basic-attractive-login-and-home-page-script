@@ -1,0 +1,50 @@
+Login and Home Page Scripts
+  This repository contains scripts for a basic web application, 
+  including a login page and a home page. The provided scripts are intended to demonstrate a simple login mechanism and a basic home page structure.
+
+Table of Contents
+  Installation
+  Usage
+  Folder Structure
+  Dependencies
+  Contributing
+  License
+
+Usage
+Start the Development Server: If you have a local server setup, start it to serve the files. 
+For example, using Live Server in VSCode, you can right-click on index.html and select "Open with Live Server."
+
+Access the Application: Open your web browser and go to http://localhost:PORT (replace PORT with the appropriate port number if needed).
+
+Login Page:
+
+Navigate to login.html to view and test the login functionality.
+Enter your credentials to log in (default credentials may be specified in the script or documentation).
+Home Page:
+
+After logging in, you'll be redirected to the home.html page.
+This page will display a basic structure and can be modified as needed.
+
+Folder Structure
+/your-repository
+│
+├── login.html        # HTML file for the login page
+├── home.html         # HTML file for the home page
+├── login.js          # JavaScript file for login page functionality
+└── home.js           # JavaScript file for home page functionality
+
+
+Dependencies
+HTML5
+JavaScript (ES6+)
+No external libraries or frameworks are required for the basic functionality. However, you may choose to integrate additional libraries or frameworks as needed.
+
+Contributing
+Contributions are welcome! If you have suggestions or improvements, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
